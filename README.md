@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Image To Text React TesseractJS
+
+A simple app built with React and TesseractJS to parse text from an image
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
